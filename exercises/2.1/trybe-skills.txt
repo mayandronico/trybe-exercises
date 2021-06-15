@@ -1,5 +1,10 @@
 O que eu vou aprender na Trybe:
--Unix
--Bash
--Git
+trybe-skills-updates
+- Unix
+- Bash
+- Git
 - GitHub
+- HTML
+- CSS
+- Javascript
+- React
